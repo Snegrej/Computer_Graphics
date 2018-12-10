@@ -1,6 +1,6 @@
 Homework repo for Computer Graphics
 
-Project 1:
+Project 1: JS directory
 
 Three.js - The hello world of three.js
 

@@ -6,7 +6,7 @@ Three.js - The hello world of three.js
 
 Project 2:
 
-I'm not sure what happened to this project. I can recreate something for this if you need and will let me.
+OpenScad project: half-life.scad - Had to remake because the original didn't get pushed.
 
 Final Project -
 
